@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.wennuanbiji.app-debug-46:/drawable-nodpi_logo.png.flat",
+        "source": "com.wennuanbiji.app-main-48:/drawable-nodpi/logo.png"
+    },
+    {
+        "merged": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-debug-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-debug-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-debug-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nfksu\\.gradle\\daemon\\8.9\\com.wennuanbiji.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

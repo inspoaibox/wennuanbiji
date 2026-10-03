@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.wennuanbiji.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.drawable.ic_launcher_foreground"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/drawable/ic_launcher_foreground.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="13"
+            endColumn="10"
+            endOffset="939"/>
+        <location id="R.mipmap.ic_launcher"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi/ic_launcher.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="14"
+            endColumn="10"
+            endOffset="951"/>
+        <location id="R.mipmap.ic_launcher_round"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/mipmap-anydpi/ic_launcher_round.xml"
+            line="2"
+            column="1"
+            startOffset="39"
+            endLine="12"
+            endColumn="10"
+            endOffset="661"/>
+        <entry
+            name="model"
+            string="color[warm_cream(U),warm_red(U)],drawable[logo(U),ic_launcher_foreground(D)],mipmap[ic_launcher(D),ic_launcher_round(D)],string[app_name(U)],style[Theme_WarmNotes(U)];4^0^3,5^0^3,7^1^0;;;"/>
+    </map>
+
+</incidents>

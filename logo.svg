@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">温暖笔记 logo</title>
+  <desc id="desc">暖色圆角方形中的笔记页、铅笔和小心形</desc>
+
+  <!-- Full-bleed background; the foreground stays inside the 160..864 safe area. -->
+  <rect width="1024" height="1024" rx="224" fill="#FFF4E8"/>
+  <rect x="128" y="128" width="768" height="768" rx="176" fill="#F6B978"/>
+
+  <!-- Note page -->
+  <path d="M292 246c0-22 18-40 40-40h272l128 128v394c0 28-22 50-50 50H332c-22 0-40-18-40-40V246Z" fill="#FFFDF8"/>
+  <path d="M604 206v104c0 14 12 26 26 26h102" fill="#FFE3BE"/>
+  <path d="M604 206v104c0 14 12 26 26 26h102" fill="none" stroke="#E8A15D" stroke-width="14" stroke-linejoin="round"/>
+
+  <!-- Writing lines -->
+  <path d="M366 426h270M366 502h208M366 578h238" fill="none" stroke="#E8A15D" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- Pencil -->
+  <g transform="rotate(-42 642 642)">
+    <rect x="576" y="454" width="92" height="300" rx="42" fill="#EF7D62"/>
+    <path d="M576 454h92v62h-92z" fill="#E96854"/>
+    <path d="M576 754h92l-46 74-46-74Z" fill="#F5C18B"/>
+    <path d="M608 806l14 22 14-22" fill="none" stroke="#7C5146" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M576 710h92" stroke="#FFF4E8" stroke-width="14"/>
+  </g>
+
+  <!-- Small heart accent -->
+  <path d="M744 390c-22-28-70-13-70 25 0 38 70 78 70 78s70-40 70-78c0-38-48-53-70-25Z" fill="#F08A76"/>
+</svg>

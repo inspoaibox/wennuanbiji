@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WarmNotes" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/warm_red</item>
+        <item name="android:navigationBarColor">@color/warm_cream</item>
+        <item name="android:statusBarColor">@color/warm_cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

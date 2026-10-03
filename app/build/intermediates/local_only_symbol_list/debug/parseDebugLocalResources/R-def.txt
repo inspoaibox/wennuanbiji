@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color warm_cream
+color warm_red
+drawable ic_launcher_foreground
+drawable logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.WarmNotes
